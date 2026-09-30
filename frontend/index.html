@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Stable Diffusion Studio</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+    <div class="container">
+
+        <h1>Stable Diffusion Studio</h1>
+
+        <p class="subtitle">
+            Text-to-Image Generation using Stable Diffusion
+        </p>
+
+
+        <label for="prompt" class="prompt-label">
+            Enter your prompt:
+        </label>
+
+
+        <textarea
+            id="prompt"
+            placeholder="Describe the image you want..."
+        ></textarea>
+
+
+        <br>
+
+
+        <button id="generateBtn">
+            Generate Image
+        </button>
+
+
+        <p id="status"></p>
+
+
+            <div id="result">
+        <!-- Generated image will appear here -->
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,3 @@
+Experiment,Prompt Type,Prompt,Model,Seed,Resolution,Inference Steps,Guidance Scale,Generation Time (seconds),CLIP Similarity
+Prompt Engineering,Original,a girl in a forest,Realistic Vision V5.1,100,512x512,30,7.5,6.2,0.2815
+Prompt Engineering,Enhanced,"a girl in a forest, photorealistic portrait, natural facial proportions, realistic eyes, natural skin texture, individual hair strands, soft natural lighting, 85mm DSLR photography, shallow depth of field, sharp focus, highly detailed",Realistic Vision V5.1,100,512x512,30,7.5,4.53,0.2896

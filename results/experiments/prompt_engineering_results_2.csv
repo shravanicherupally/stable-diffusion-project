@@ -1,0 +1,3 @@
+Experiment,Prompt Type,Prompt,Model,Seed,Resolution,Inference Steps,Guidance Scale,Generation Time (seconds),CLIP Similarity
+Prompt Engineering 2,Original,a futuristic city at night,Realistic Vision V5.1,200,512x512,30,7.5,4.43,0.2545
+Prompt Engineering 2,Enhanced,"a futuristic city at night, photorealistic cinematic scene, glowing neon lights, modern skyscrapers, realistic reflections on wet streets, detailed architecture, soft atmospheric lighting, volumetric light, sharp focus, professional photography, highly detailed, realistic colors",Realistic Vision V5.1,200,512x512,30,7.5,4.42,0.3161

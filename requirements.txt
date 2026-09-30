@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+safetensors
+huggingface-hub
+pillow
+numpy
+pandas
+matplotlib
+scikit-learn
